@@ -4,3 +4,9 @@ System.out.println("Good morning");
 
 System.out.println("Good Night");
 }
+
+Added new method:
+public void m1()
+{
+  System.out.println("Akash");
+}
